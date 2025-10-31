@@ -1,0 +1,9 @@
+
+.idea/
+.vs/
+.claude/
+bin/
+obj/
+
+*.user
+notify.vbs
